@@ -1,2 +1,3 @@
-# pierwszy
-nauka github
+# transformacja, 
+
+Tutaj pojawi się 5 dni z projektu transformacja 
